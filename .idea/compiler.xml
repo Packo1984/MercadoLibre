@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PruebasCucunber" />
+        <module name="PruebasCucunber1" />
+        <module name="AltaClienteConExcel_28122020 - copia - copia" />
+        <module name="AltaClienteConExcel_17122020" />
+        <module name="AltaCliente_19012021" />
+        <module name="MercadoLibre" />
+        <module name="PruebasCucunber1 - 11122020-Login y alta cliente (sinLogin)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
